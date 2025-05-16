@@ -1,0 +1,6 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": ["pycache", "venv", "pyright", "pyrightconfig", "figsize"],
+  "ignorePaths": ["node_modules/**", "venv/**", ".git/**", "**/__pycache__/**"]
+}
